@@ -16,7 +16,7 @@ body {
     gap: 60px;
     justify-content: center;
     
-    margin: 10% auto;
+    margin: 10% 0;
 }
 header {
     grid-column: 1 / 6;
